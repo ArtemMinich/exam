@@ -1,0 +1,14 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "Behavioral pattern - Mediator",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node examples/mediator-example.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
